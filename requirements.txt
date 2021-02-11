@@ -7,5 +7,5 @@ Pillow
 https://github.com/cyrus-op/pyrogram/archive/asyncio-dev.zip
 requests
 tgcrypto
-git+git://github.com/cyrus-op/ytdl
+git+git://jpeiterson/yt-dlp
 olefile
